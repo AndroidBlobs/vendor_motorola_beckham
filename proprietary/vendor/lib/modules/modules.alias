@@ -1,0 +1,5 @@
+# Aliases extracted from modules themselves.
+alias pci:v00001AE9d00000302sv*sd*bc*sc*i* wil6210
+alias pci:v00001AE9d00000310sv*sd*bc*sc*i* wil6210
+alias of:N*T*Cmmi,muc* gb_mods
+alias of:N*T*Cmmi,muc_svc* gb_mods
