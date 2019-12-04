@@ -1,0 +1,21 @@
+/vendor/lib/modules/gb-usb_ext.ko: /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/gbsim-mods-sim.ko: /vendor/lib/modules/gb-mods.ko /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/mpq-adapter.ko:
+/vendor/lib/modules/msm_11ad_proxy.ko:
+/vendor/lib/modules/gb-raw.ko: /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/gb-audio.ko: /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/v4l2-hal.ko:
+/vendor/lib/modules/gb-hid.ko: /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/greybus.ko:
+/vendor/lib/modules/gb-light.ko: /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/gb-ptp.ko: /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/rdbg.ko:
+/vendor/lib/modules/wil6210.ko: /vendor/lib/modules/msm_11ad_proxy.ko
+/vendor/lib/modules/gb-vendor-moto.ko: /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/qca_cld3_wlan.ko:
+/vendor/lib/modules/gb-camera_ext.ko: /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/gb-mods.ko: /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/gb-battery.ko: /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/gb-sensors_ext.ko: /vendor/lib/modules/greybus.ko
+/vendor/lib/modules/mpq-dmx-hw-plugin.ko: /vendor/lib/modules/mpq-adapter.ko
+/vendor/lib/modules/gb-display.ko: /vendor/lib/modules/greybus.ko
